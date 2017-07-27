@@ -1,0 +1,38 @@
+body{background-color: lightblue;
+
+
+}
+.clearfix{
+    clear:both;
+}
+.left{
+    float:left;
+    width:300px;
+    height: 500px;
+    border: 2px solid black;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: white;
+}
+.right,.center{
+  
+   float:left;
+    width:300px;
+    height:300px;
+     border: 2px solid black;
+  margin: 10px;
+border-radius: 5px;
+ background-color: white;
+} 
+
+
+.right_bottom{
+    float:left;
+    width:624px;
+    height:176px;
+     border: 2px solid black;
+  margin: 10px;
+  border-radius: 5px;
+   background-color: white;
+   box-shadow: 2px 2px black;
+} 
